@@ -17,14 +17,10 @@ public static double division(int num1, int num2){
        return num1/num2;
 }
 
+   
+   
+public static int operation1(int num1, int num2){
+   return num1*num2+5;
 
-
-
-
-
-
-public static int operation2(int num1, int num2){
-       return Math.abs(num1)+Math.max(num1, num2);
-    }
 }
 //https://github.com/CybertekSchool/parallel-multi-browser-testng-framework.git
