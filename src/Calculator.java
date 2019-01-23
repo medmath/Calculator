@@ -32,6 +32,8 @@ public static int operation1(int num1, int num2) {
    public static double operation3(int num1, int num2){
       return num1*num2-num1;
    }
-   
+   public static double operation4(int num1, int num2){
+      return num1*num2+num2;
+   }
 }
 //https://github.com/CybertekSchool/parallel-multi-browser-testng-framework.git
