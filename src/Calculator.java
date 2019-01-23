@@ -41,6 +41,5 @@ public static int operation1(int num1, int num2) {
     public static double operation5(int num1, int num2){
         return num1/num2-num1;
     }
-
 }
 //https://github.com/CybertekSchool/parallel-multi-browser-testng-framework.git
