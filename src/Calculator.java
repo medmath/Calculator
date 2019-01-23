@@ -12,6 +12,10 @@ public static double subtract(int num1, int num2){
    public static double multiply(int num1, int num2){
     return num1*num2;
 }
-   
+
+public static double division(int num1, int num2){
+       return num1/num2;
+}
    
 }
+//https://github.com/CybertekSchool/parallel-multi-browser-testng-framework.git
