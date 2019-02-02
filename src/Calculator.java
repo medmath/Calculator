@@ -22,7 +22,7 @@ public static double division(int num1, int num2){
 public static int operation1(int num1, int num2) {
     return num1 * num2 + 5;
 }
-
+  
 
 
     public static int operation2(int num1, int num2){
@@ -45,5 +45,11 @@ public static int operation1(int num1, int num2) {
     public static double operation7(int num1, int num2){
         return num1/num2-num1;
     }
+    public double operationOriginMaster(){
+      
+      return 6.4;
+   }
+
+   
 }
 //https://github.com/CybertekSchool/parallel-multi-browser-testng-framework.git
