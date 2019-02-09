@@ -49,7 +49,9 @@ public static int operation1(int num1, int num2) {
       
       return 6.4;
    }
-
+public static int operation11(int num1, int num2) {
+    return num1 * num2 + 11;
+}
    
 }
 //https://github.com/CybertekSchool/parallel-multi-browser-testng-framework.git
